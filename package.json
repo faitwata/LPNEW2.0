@@ -1,0 +1,25 @@
+{
+  "name": "turboconteudo",
+  "version": "1.0.0",
+  "description": "TurboConteúdo - Crie Conteúdos Profissionais com IA",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite"
+  },
+  "keywords": [
+    "conteudo",
+    "ia",
+    "instagram",
+    "design",
+    "marketing"
+  ],
+  "author": "TurboConteúdo",
+  "license": "MIT",
+  "devDependencies": {
+    "terser": "^5.44.1",
+    "vite": "^5.0.0"
+  }
+}
